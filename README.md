@@ -1,2 +1,18 @@
-# apotify-downloader-
-this is a simple code to download spotify music with easy commandline interface
+# spotify-downloader-
+
+## Overview
+A lightweight Python script to download music uses spotdl library. This tool utilizes `yt-dlp` to fetch and save audio files efficiently.
+
+## Features
+- Download music from supported websites (e.g., YouTube_music)
+- Convert videos to audio formats like MP3
+- Simple command-line interface
+- Fast and efficient downloads
+
+## Requirements
+Ensure you have Python installed, then install dependencies:
+spotdl
+rich
+
+```bash
+pip install spotdl
