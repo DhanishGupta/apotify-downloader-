@@ -9,6 +9,11 @@ A lightweight Python script to download music uses spotdl library. This tool uti
 - Simple command-line interface
 - Fast and efficient downloads
 
+## Note
+add your directory to code for downloading music
+1.) default sub folder for downloading your songs
+2.) default folder for storing your newly created folder
+
 ## Requirements
 Ensure you have Python installed, then install dependencies:
 spotdl
