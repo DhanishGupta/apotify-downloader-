@@ -40,7 +40,7 @@ choice=input(">>>")
 if choice=='n':
     print_text("Enter the name of the song: ")
     name = input()
-    output_folder = os.path.normpath(rf"D:\Dhanish\Music\{name}") #enter your music folder path here
+    output_folder = os.path.normpath(rf"D:\xyz\Music\{name}") #enter your music folder path here
     print("")
     print_text("Enter the Spotify song URL: ")
     playlist_url = input(">>>")
@@ -48,7 +48,7 @@ if choice=='n':
 elif choice=='d':
     print_text("Enter the name of the song/playlist: ")
     name = input()
-    output_folder = os.path.normpath(rf"D:\Dhanish\Music\downloaded_songs") #enter your default music folder path here
+    output_folder = os.path.normpath(rf"D:\xyz\Music\downloaded_songs") #enter your default music folder path here
     print("")
     print_text("Enter the Spotify playlist URL: ")
     playlist_url = input(">>>")
