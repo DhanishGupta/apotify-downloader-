@@ -1,7 +1,7 @@
 # spotify-downloader-
 
 ## Overview
-A lightweight Python script to download music uses spotdl library. This tool utilizes `yt-dlp` to fetch and save audio files efficiently.
+A lightweight Python script to download music uses spotdl library. This tool utilizes `spotdl` to fetch and save audio files efficiently.
 
 ## Features
 - Download music from supported websites (e.g., YouTube_music)
